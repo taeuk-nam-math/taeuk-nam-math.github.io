@@ -34,7 +34,7 @@ h2 {
 
 .portrait {
   display: block;
-  width: 220px;
+  width: 300px;
   max-width: 100%;
   height: auto;
   margin-bottom: 24px;
@@ -87,7 +87,7 @@ a:visited {
 }
 
 .portrait {
-  width: 440px;
+  width: 300px;
   height: auto;
   flex-shrink: 0;
 }
