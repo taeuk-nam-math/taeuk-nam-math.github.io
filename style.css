@@ -74,10 +74,6 @@ a:visited {
     padding: 24px 18px;
     font-size: 16px;
   }
-
-  .portrait {
-    width: 180px;
-  }
 }
 
 .website {
@@ -95,3 +91,4 @@ a:visited {
   height: auto;
   flex-shrink: 0;
 }
+
