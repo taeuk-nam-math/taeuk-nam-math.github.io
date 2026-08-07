@@ -79,3 +79,19 @@ a:visited {
     width: 180px;
   }
 }
+
+.website {
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+}
+
+.text {
+  flex: 1;
+}
+
+.portrait {
+  width: 220px;
+  height: auto;
+  flex-shrink: 0;
+}
